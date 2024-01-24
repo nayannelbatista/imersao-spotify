@@ -88,28 +88,3 @@
     font-weight: 700;
     border-radius: 40px;
   }
-
-  .playlist-container {
-    height: 72vh;
-    padding-top: 1rem;
-    margin: 10px;
-    border-radius: 10px;
-    background-color: #121212;
-  }
-  
-  .playlist {
-    margin: 24px;
-  }
-  
-  .playlist #greeting {
-    color: var(--text-base-light);
-    font-size: 32px;
-    font-weight: 700;
-    margin-bottom: 48px;
-  }
-  
-  .playlist .session {
-    color: var(--text-base-light);
-    font-size: 24px;
-    font-weight: 700;
-  }
